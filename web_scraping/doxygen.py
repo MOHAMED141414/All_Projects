@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import openpyxl
 # date 6/27/2024
 date=input("Please enter a date following this format MM/DD/YYYY:")
-# the url of yallakora
+# the url for yallakora
 page=requests.get(f"https://www.yallakora.com/match-center/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA?date={date}")
 
 def main(page):

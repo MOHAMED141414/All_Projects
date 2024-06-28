@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1693847285 source:d:\amit__\final_progect\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+	"SDB.h"
+
+1693846029 d:\amit__\final_progect\std.h
+
+1693588369 d:\amit__\final_progect\bitmath.h
+
+1693919444 source:d:\amit__\final_progect\sdb.c
+	"STD.h"
+	"SDB.h"
+
+1693584860 source:d:\amit__\final_progect\std.c
+
+1693911251 d:\amit__\final_progect\sdb.h
+	"STD.h"
+
+1693917335 source:d:\amit__\final_progect\sdbapp1.c
+	"SDB.h"
+	"STD.h"
+	<stdio.h>
+
+1693934187 source:d:\amit__\final_progect\sdbapp.c
+	"SDB.h"
+	"STD.h"
+	<stdio.h>
+
